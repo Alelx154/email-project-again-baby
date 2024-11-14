@@ -5,6 +5,7 @@ For running the trainer:
 2.) In finalize_labels.py, replace paths for PARTIALLY_LABELED_FILE, and FULLY_LABELED_FILE.
 3.) In parse_messages.py, replace paths for CSV_PATH and PARTIALLY_LABELED_FILE.
 4.) In train_model.py, replace path to read_CSV
+5.) Execute run_pipeline.py
 
 
 For running the Filter:
